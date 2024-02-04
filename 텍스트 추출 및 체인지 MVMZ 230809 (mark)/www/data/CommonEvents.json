@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"list":[{"code":320,"indent":0,"parameters":[1,"헤럴드2"]},{"code":324,"indent":0,"parameters":[1,"헤럴드닉네임"]},{"code":325,"indent":0,"parameters":[1,"헤럴드프로필1\n"]},{"code":0,"indent":0,"parameters":[]}],"name":"test","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+]
